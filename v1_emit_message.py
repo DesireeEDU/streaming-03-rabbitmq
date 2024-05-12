@@ -6,7 +6,7 @@
 # add imports at the beginning of the file
 import pika
 
-message = "My name is Desiree Thompson"
+message = "This is 44671 Streaming Data"
 
 # create a blocking connection to the RabbitMQ server
 conn = pika.BlockingConnection(pika.ConnectionParameters(host="LOCALHOST"))

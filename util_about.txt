@@ -2,23 +2,23 @@
 ======================================================================
 ======================================================================
  Welcome to the NW Python Debugging Information Utility!
- Date and Time: 2024-05-11 at 06:16 PM
+ Date and Time: 2024-05-11 at 10:45 PM
  Operating System: nt Windows 10
  System Architecture: 64bit
  Number of CPUs: 8
  Machine Type: AMD64
- Python Version: 3.11.9
- Python Build Date and Compiler: tags/v3.11.9:de54cf5 with Apr  2 2024 10:12:12
+ Python Version: 3.9.16
+ Python Build Date and Compiler: main with Jan 11 2023 16:16:36
  Python Implementation: CPython
  Active pip environment:   None
  Active conda environment: None
  Path to Interpreter:         D:\Master's Data Analytics\Courses\44671 Streaming Data\Module 3\streaming-03-rabbitmq\.venv\Scripts\python.exe
  Path to virtual environment: D:\Master's Data Analytics\Courses\44671 Streaming Data\Module 3\streaming-03-rabbitmq\.venv
  Current Working Directory:   D:\Master's Data Analytics\Courses\44671 Streaming Data\Module 3\streaming-03-rabbitmq
- Path to source directory:    d:\Master's Data Analytics\Courses\44671 Streaming Data\Module 3\streaming-03-rabbitmq
- Path to script file:         d:\Master's Data Analytics\Courses\44671 Streaming Data\Module 3\streaming-03-rabbitmq\util_about.py
+ Path to source directory:    D:\Master's Data Analytics\Courses\44671 Streaming Data\Module 3\streaming-03-rabbitmq
+ Path to script file:         D:\Master's Data Analytics\Courses\44671 Streaming Data\Module 3\streaming-03-rabbitmq\util_about.py
  User's Home Directory:       C:\Users\Desiree
- Terminal Environment:        VS Code
+ Terminal Environment:        Native Terminal
  Terminal Type:               cmd.exe
  Preferred command:           python
  Is python available in PATH:   True

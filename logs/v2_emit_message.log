@@ -1,8 +1,8 @@
-2024-05-11 21:24:47,510.v2_emit_message.INFO ==================================================
-2024-05-11 21:24:47,511.v2_emit_message.INFO Today is 2024-05-11 at 09:24 PM
-2024-05-11 21:24:47,512.v2_emit_message.INFO Running on: nt Windows 10
-2024-05-11 21:24:47,513.v2_emit_message.INFO Python version:  3.11.9
-2024-05-11 21:24:47,513.v2_emit_message.INFO Python path: D:\Master's Data Analytics\Courses\44671 Streaming Data\Module 3\streaming-03-rabbitmq\.venv
-2024-05-11 21:24:47,514.v2_emit_message.INFO Working dir: D:\Master's Data Analytics\Courses\44671 Streaming Data\Module 3\streaming-03-rabbitmq
-2024-05-11 21:24:47,514.v2_emit_message.INFO ==================================================
-2024-05-11 21:24:47,536.v2_emit_message.INFO  [x] Sent My name is Desiree Thompson
+2024-05-11 23:10:24,869.v2_emit_message.INFO ==================================================
+2024-05-11 23:10:24,869.v2_emit_message.INFO Today is 2024-05-11 at 11:10 PM
+2024-05-11 23:10:24,869.v2_emit_message.INFO Running on: nt Windows 10
+2024-05-11 23:10:24,869.v2_emit_message.INFO Python version:  3.9.16
+2024-05-11 23:10:24,870.v2_emit_message.INFO Python path: D:\Master's Data Analytics\Courses\44671 Streaming Data\Module 3\streaming-03-rabbitmq\.venv
+2024-05-11 23:10:24,870.v2_emit_message.INFO Working dir: D:\Master's Data Analytics\Courses\44671 Streaming Data\Module 3\streaming-03-rabbitmq
+2024-05-11 23:10:24,870.v2_emit_message.INFO ==================================================
+2024-05-11 23:10:24,896.v2_emit_message.INFO  [x] Sent My name is Desiree Thompson
