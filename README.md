@@ -76,9 +76,7 @@ python util_aboutrabbit.py (_Received an error when running script. Howver, Rabb
 pip list
 ```
 
-
-![verifying setup](./images/verify-setup.png)
-
+[verifying setup](https://github.com/DesireeEDU/streaming-03-rabbitmq/blob/main/screenshot.png)
 
 ## Task 5. Read
 
