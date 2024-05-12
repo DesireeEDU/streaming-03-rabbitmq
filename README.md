@@ -106,6 +106,9 @@ Once it runs successfully, will it terminate on its own? How do you know?
   _No it will not terminate on its own. Messgae advises "To exit press CTRL+C_
 As long as the process is running, we cannot use this terminal for other commands. 
 
+## Screenshot
+![emit and listen]()
+
 ## Task 8. Open a New Terminal / Emit More Messages
 
 1. Open a new terminal window.
