@@ -71,10 +71,11 @@ They are meant to be helpful, but are not required.
 
 ```shell
 python util_about.py
-python util_aboutenv.py
-python util_aboutrabbit.py
+python util_aboutenv.py (_Received an error when running the script. However, message advised thta the virtual environment was activated_)
+python util_aboutrabbit.py (_Received an error when running script. Howver, RabbitMQ has already been installed_)
 pip list
 ```
+
 
 ![verifying setup](./images/verify-setup.png)
 
@@ -102,6 +103,7 @@ We can execute additional commands in the terminal as soon as it finishes.
 
 You'll need to fix an error in the program to get it to run.
 Once it runs successfully, will it terminate on its own? How do you know? 
+  _No it will not terminate on its own. Messgae advises "To exit press CTRL+C_
 As long as the process is running, we cannot use this terminal for other commands. 
 
 ## Task 8. Open a New Terminal / Emit More Messages
