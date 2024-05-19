@@ -75,7 +75,7 @@ python util_aboutenv.py (_Received an error when running the script. However, me
 python util_aboutrabbit.py (_Received an error when running script. Howver, RabbitMQ has already been installed_)
 pip list
 ```
-
+![]()
 [verifying setup](https://github.com/DesireeEDU/streaming-03-rabbitmq/blob/main/screenshot.png)
 
 ## Task 5. Read
