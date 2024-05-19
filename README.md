@@ -77,7 +77,7 @@ pip list
 ```
 ![](https://github.com/DesireeEDU/streaming-03-rabbitmq/assets/122500205/32bdb849-5e73-4731-96e3-ac7977600821)
 
-![verifying setup](https://github.com/DesireeEDU/streaming-03-rabbitmq/blob/main/screenshot.png)
+[verifying setup](https://github.com/DesireeEDU/streaming-03-rabbitmq/blob/main/screenshot.png)
 
 ## Task 5. Read
 
